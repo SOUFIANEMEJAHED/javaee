@@ -1,0 +1,16 @@
+package delivery;
+
+public class main {
+
+	public static void main(String[] args) {
+		System.out.println("hello world");
+	}
+	
+	
+	public static String myConcat(String A, String B) {
+		
+		
+		return A+B;
+	}
+
+}

@@ -1,0 +1,24 @@
+package delivery;
+
+public class main {
+
+	public static void main(String[] args) {
+		
+		myConcat("hello","world");
+	}
+	
+	
+	public static String myConcat(String str1, String str2) {
+		
+		return println(""+str1+" "+str2+"");	
+		
+		
+	}
+
+
+	private static String println(String string) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
